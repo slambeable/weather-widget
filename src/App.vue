@@ -241,6 +241,7 @@ weather-widget {
   letter-spacing: 0.5px;
   margin-top: 60px;
   position: relative;
+  display: block;
   width: 250px;
   height: 500px;
   padding: 16px;
