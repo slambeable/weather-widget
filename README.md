@@ -1,5 +1,17 @@
 # weather-widget
 
+## Description
+Embedded news widget. With the functionality to add / remove / change the location of cities.
+
+## GitHub Pages
+[See for an example](https://slambeable.github.io/weather-widget/).
+
+## HTML code for integration
+```
+<weather-widget></weather-widget>
+<script type="text/javascript" src="https://slambeable.github.io/weather-widget/all.min.js"></script>
+```
+
 ## Project setup
 ```
 npm install
@@ -19,6 +31,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
